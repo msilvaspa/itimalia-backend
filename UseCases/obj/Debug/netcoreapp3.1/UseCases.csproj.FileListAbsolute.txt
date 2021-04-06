@@ -1,0 +1,12 @@
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/bin/Debug/netcoreapp3.1/UseCases.deps.json
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/bin/Debug/netcoreapp3.1/UseCases.dll
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/bin/Debug/netcoreapp3.1/UseCases.pdb
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.csprojAssemblyReference.cache
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.AssemblyInfoInputs.cache
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.AssemblyInfo.cs
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.csproj.CoreCompileInputs.cache
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.csproj.CopyComplete
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.dll
+/Users/28327abcbrasil/dev/PasswordValidator/UseCases/obj/Debug/netcoreapp3.1/UseCases.pdb
